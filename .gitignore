@@ -4,6 +4,9 @@ venv/
 # Ignore all test files
 test.*
 
+# Ignore credentials config file
+credentials.ini
+
 # ABOVE ARE ALL MANUAL
 
 # BELOW ARE ALL TEMPLATE-INDUCED 
